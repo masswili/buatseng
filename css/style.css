@@ -54,10 +54,6 @@ body{
     animation: glow 4s ease-in-out infinite;
     animation-delay: .4s;
 }
-.greetings > span:nth-child(8){
-    animation: glow 4s ease-in-out infinite;
-    animation-delay: .4s;
-}
 
 .description{
     font-size: 1.5rem;
